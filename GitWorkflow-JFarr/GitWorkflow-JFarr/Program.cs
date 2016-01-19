@@ -15,6 +15,7 @@ namespace GitWorkflow_JFarr
         static void Main()
         {
             // This is a comment made by JFarr
+            // This is a comment made by JFarr in the first dev branch
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
