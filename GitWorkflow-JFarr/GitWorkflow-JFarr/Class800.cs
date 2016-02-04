@@ -10,5 +10,6 @@ namespace GitWorkflow_JFarr
     {
         public Class800() { } // this ticket has been completed need to deployed on QA.
         public void function1() {}
+        public void function2() { }
     }
 }
